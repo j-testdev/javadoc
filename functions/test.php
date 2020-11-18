@@ -1,0 +1,2 @@
+<?php
+$aar = new array();

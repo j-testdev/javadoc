@@ -1,0 +1,36 @@
+#buscador{
+	width: 50%;
+	margin-left: 25%;
+	float: left;
+	margin-top: calc(50vh - 15px);
+	height: 30px;
+	padding: 5px;
+	background: #b3ed15;
+	color: #FFF;
+	font-weight: bold;
+	font-family: revert;
+	font-size: medium;
+	border: solid 3px #000;
+}
+body{
+	background: #1285ea;
+}
+#pushme{
+	margin-top: calc(50vh - 15px);
+	background: #29fc09;
+	border: solid 2px #000;
+	cursor: pointer;
+	padding: 5px;
+	color: #fff;
+	margin-left: 10px;
+	height: 46px;
+	width: 75px;
+}
+#resultados{
+	width: 50%;
+    float: left;
+    margin-left: 25%;
+    padding: 5px;
+    color: #FFF;
+    font-size: 33px;
+}
